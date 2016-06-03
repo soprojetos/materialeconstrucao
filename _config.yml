@@ -10,20 +10,20 @@ locale                   : "pt-BR"
 title                    : "Material de Construção"
 title_separator          : "-"
 name                     : "Soprojetos"
-description              : "Material de Construção</strong> é um site voltado para pessoas que constroem e precisam  de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro etc.."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  :
+description              : "Material de Construção é um site voltado para pessoas que constroem e precisam  de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro etc.."
+url                      : "https://soprojetos.github.io"
+baseurl                  : "/materialeconstrucao"
+gh_repo                  : "https://github.com/soprojetos/materialeconstrucao"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               :"facebook"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
+    appid                : 273458529340431
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 
