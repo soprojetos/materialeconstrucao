@@ -31,7 +31,7 @@ en-US:
   <<: *DEFAULT_EN
 en-UK:
   <<: *DEFAULT_EN
-pt-BR: &DEFAULT_EN
+pt-BR:
   page                  : "Página"
   pagination_previous   : "Anterior"
   pagination_next       : "Next"
