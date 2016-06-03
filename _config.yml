@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Material de Construção1"
+title                    : "Material de Construção"
 title_separator          : "-"
 name                     : "Soprojetos"
-description              : "Material de Construção é um site voltado para pessoas que constroem e precisam  de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro etc.."
+description              : "1 ## Material de Construção é um site voltado para pessoas que constroem e precisam  de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro etc.."
 url                      : "https://soprojetos.github.io"
 baseurl                  : "/materialeconstrucao"
 base_path                : "/materialeconstrucao"
