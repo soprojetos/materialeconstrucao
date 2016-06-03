@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "pt-BR"
+title                    : "Material de Construção"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Soprojetos"
+description              : "Material de Construção</strong> é um site voltado para pessoas que constroem e precisam  de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro etc.."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
