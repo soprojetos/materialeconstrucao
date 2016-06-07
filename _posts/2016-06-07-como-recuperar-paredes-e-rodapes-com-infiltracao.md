@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Como recuperar paredes e rodapés com infiltração
+categories:
+  - blog
 ---
 
 Paredes e rodapés úmidos são decorrentes de falta ou de uma falha na impermeabilização durante a construção. confira os passos de como evitar esse tipo de problema:
