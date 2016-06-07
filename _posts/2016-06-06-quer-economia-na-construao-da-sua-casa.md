@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Quer economia na construção da sua casa?
+categories:
+  - blog
 ---
 
 Basta planejar e organizar adequadamente da escolha do terreno aos acabamentos.
