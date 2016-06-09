@@ -1,7 +1,7 @@
 ---
 title: "Material de Contrução, orçamentos e conteúdos"
 layout: splash
-permalink: /home/
+permalink: /
 date:
 header:
   overlay_color: "#5e616c"
