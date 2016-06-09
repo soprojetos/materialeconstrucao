@@ -14,7 +14,7 @@ description              : "Material de Construção é um site voltado para pes
 url                      : "https://soprojetos.github.io"
 baseurl                  : "/materialeconstrucao"
 base_path                : "/materialeconstrucao"
-gh_repo                  : "https://github.com/soprojetos/materialeconstrucao"
+gh_repo                  : "https://github.com/soprojetos/materialeconstrucao/blob"
 teaser                   : "http://placehold.it/500x300"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
