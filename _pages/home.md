@@ -1,4 +1,5 @@
 ---
+title: "Material de Contrução, orçamentos e conteúdos"
 layout: splash
 permalink: /home/
 date:
