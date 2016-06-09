@@ -9,7 +9,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: "Material de Construção é um site voltado para pessoas que constroem e precisam  de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro etc.."
+excerpt: "Material de Construção é um site voltado para pessoas que."
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "Orçamento de Alicerce"
