@@ -1,7 +1,7 @@
 ---
 title: "Material de Contrução, orçamentos e conteúdos"
 layout: splash
-permalink: /home2/
+permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -12,7 +12,6 @@ header:
   caption: 
 excerpt: "Material de Construção é um site voltado para pessoas que constroem e precisam de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro etc..."
 intro: 
-  - excerpt: 
 feature_row:
 - image_path: mm-customizable-feature.png
     alt: "Orçamento de Alicerce"
