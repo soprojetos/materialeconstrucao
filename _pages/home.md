@@ -6,8 +6,8 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
+  cta_label: "<i class='fa fa-download'></i> Soprojetos"
+  cta_url: "http://www.soprojetos.com.br"
   caption:
 excerpt: "Material de Construção é um site voltado para pessoas que constroem e precisam de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro e etc."
 feature_row:
