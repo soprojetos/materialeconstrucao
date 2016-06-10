@@ -1,5 +1,5 @@
 ---
-title: "Material de Contrução, orçamentos e conteúdos"
+title: "Material de Contrução: orçamentos e conteúdos"
 layout: splash
 permalink: /home42/
 date: 2016-03-23T11:48:41-04:00
