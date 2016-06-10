@@ -11,19 +11,19 @@ header:
   caption:
 excerpt: "Material de Construção é um site voltado para pessoas que constroem e precisam de respostas simples, rápidas e GRÁTIS para pequenos orçamentos."
 feature_row:
-  - image_path: mm-customizable-feature.png
+  - image_path: fundacao.jpg
     alt: "Orçamento de Alicerce"
     title: "Orçamento de Alicerce"
     excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o seu alicerce"
     url: "/docs/configuration/"
     btn_label: "Saiba mais"
-  - image_path: mm-responsive-feature.png
+  - image_path: parede-tijolo.jpg
     alt: "Orçamento de parede de tijolo"
     title: "Orçamento de parede de tijolo"
     excerpt: "Quer saber quanto custa para fazer sua parede de tijolo? Veja GRÁTIS neste mini orçamento"
     url: "/docs/layouts/"
     btn_label: "Saiba mais"
-  - image_path: mm-free-feature.png
+  - image_path: reboco.jpg
     alt: "Orçamento de reboco"
     title: "Orçamento de reboco"
     excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o reboco da sua parede"
