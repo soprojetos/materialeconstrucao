@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "blog"
+    url: https://soprojetos.github.io/materialeconstrucao
 
-  - title: "About"
+  - title: "sobre"
     url: https://mmistakes.github.io/minimal-mistakes/
 
-  - title: "Sample Posts"
-    url: https://mmistakes.github.io/minimal-mistakes/year-archive/
+  - title: "soprojetos"
+    url: https://soprojetos.com.br
 
-  - title: "Sample Pages"
+  - title: "contato"
     url: https://mmistakes.github.io/minimal-mistakes/page-archive/
-
-  - title: "Sample Collections"
-    url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
