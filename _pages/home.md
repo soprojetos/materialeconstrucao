@@ -1,5 +1,5 @@
 ---
-title: "Material de Contrução: orçamentos e conteúdos"
+title: "Material e Contrução: orçamentos e conteúdos"
 layout: splash
 permalink: /home42/
 date: 2016-03-23T11:48:41-04:00
@@ -9,7 +9,7 @@ header:
   cta_label: "Veja nossas dicas"
   cta_url: "/_posts/"
   caption:
-excerpt: "Material de Construção é um site voltado para pessoas que constroem e precisam de respostas simples, rápidas e GRÁTIS para pequenos orçamentos."
+excerpt: "Material e Construção é um site voltado para pessoas que constroem e precisam de respostas simples, rápidas e GRÁTIS para pequenos orçamentos."
 feature_row:
   - image_path: fudacao.png
     alt: "Orçamento de Alicerce"
