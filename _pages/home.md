@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: material-construcao-cover.png
   cta_label: "Veja nossas dicas"
-  url: "https://materialeconstrucao.com.br"
+  cta_url: "https://materialeconstrucao.com.br"
   caption:
 excerpt: "Material de Construção é um site voltado para pessoas que constroem e precisam de respostas simples, rápidas e GRÁTIS para pequenos orçamentos."
 feature_row:
