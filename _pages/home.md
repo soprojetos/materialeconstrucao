@@ -5,7 +5,7 @@ permalink: /home42/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#5e616c"
-  overlay_image: material-construcao-cover.png
+  overlay_image: material-contrucao-cover.png
   cta_label: "Veja nossas dicas"
   cta_url: "/_posts/"
   caption:
