@@ -11,7 +11,7 @@ header:
   caption:
 excerpt: "Material de Construção é um site voltado para pessoas que constroem e precisam de respostas simples, rápidas e GRÁTIS para pequenos orçamentos."
 feature_row:
-  - image_path: fundacao.png
+  - image_path: fudacao.png
     alt: "Orçamento de Alicerce"
     title: "Orçamento de Alicerce"
     excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o seu alicerce"
