@@ -14,23 +14,23 @@ excerpt: "Material de Construção é um site voltado para pessoas que constroem
 intro: 
 feature_row:
 - image_path: mm-customizable-feature.png
-    alt: "Orçamento de Alicerce"
-    title: "Orçamento de Alicerce"
-    excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o seu alicerce"
-    url: "/docs/configuration/"
-    btn_label: "Saiba mais"
-  - image_path: mm-responsive-feature.png
-    alt: "Orçamento de parede de tijolo"
-    title: "Orçamento de parede de tijolo"
-    excerpt: "Quer saber quanto custa para fazer sua parede de tijolo? Veja GRÁTIS neste mini orçamento"
-    url: "/docs/layouts/"
-    btn_label: "Saiba mais"
-  - image_path: mm-free-feature.png
-    alt: "Orçamento de reboco"
-    title: "Orçamento de reboco"
-    excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o reboco da sua parede"
-    url: "/docs/license/"
-    btn_label: "Saiba mais"
+  alt: "Orçamento de Alicerce"
+  title: "Orçamento de Alicerce"
+  excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o seu alicerce"
+  url: "/docs/configuration/"
+  btn_label: "Saiba mais"
+- image_path: mm-responsive-feature.png
+  alt: "Orçamento de parede de tijolo"
+  title: "Orçamento de parede de tijolo"
+  excerpt: "Quer saber quanto custa para fazer sua parede de tijolo? Veja GRÁTIS neste mini orçamento"
+  url: "/docs/layouts/"
+  btn_label: "Saiba mais"
+- image_path: mm-free-feature.png
+  alt: "Orçamento de reboco"
+  title: "Orçamento de reboco"
+  excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o reboco da sua parede"
+  url: "/docs/license/"
+  btn_label: "Saiba mais"
 ---
 
 {% include feature_row id="intro" type="center" %}
