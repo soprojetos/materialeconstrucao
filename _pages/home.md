@@ -26,7 +26,7 @@ feature_row:
   - image_path: reboco.png
     alt: "Orçamento de reboco"
     title: "Orçamento de reboco"
-    excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o reboco da sua parede"
+    excerpt: "Calcule quanto custará para fazer o reboco da sua parede"
     url: "/docs/license/"
     btn_label: "Saiba mais"
 ---
