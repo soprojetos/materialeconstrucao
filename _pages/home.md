@@ -34,3 +34,8 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
