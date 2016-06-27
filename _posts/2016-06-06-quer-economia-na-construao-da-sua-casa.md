@@ -6,9 +6,9 @@ categories:
 
 Basta planejar e organizar adequadamente da escolha do terreno aos acabamentos.
 
-### Siga as dicas: ###
+## Siga as dicas:
 
-#### Compra do terreno ####
+### Compra do terreno
 
 É recomendável escolher um terreno plano, o que representará menos gastos com terraplanagem e fundações;
 Para avaliar o solo, é importante contratar uma empresa de sondagem; caso o resultado apresente um solo de boa resistência superficial, será possível utilizar uma fundação tipo sapata corrida (uma laje armada horizontalmente, de 50 a 60cm, em valas de aproximadamente 1 metro de profundidade), que consome menos concreto;
