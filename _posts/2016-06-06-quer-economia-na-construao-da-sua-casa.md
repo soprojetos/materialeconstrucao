@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Quer economia na construção da sua casa?"
-date: 2016-06-06
 categories:
   - dica
 ---
