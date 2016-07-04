@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Dicas"
-    url: https://materialeconstrucao.com.br/_pages/dicas.md
+  - title: "Blog"
+    url: /blog/
 
   - title: "sobre"
     url: https://mmistakes.github.io/minimal-mistakes/

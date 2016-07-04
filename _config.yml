@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : "Soprojetos"
 description              : "Material e Construção é um site voltado para pessoas que constroem e precisam  de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro etc.."
 url                      : "http://www.materialeconstrucao.com.br"
-baseurl                  : "/"
-gh_repo                  : "https://github.com/soprojetos/materialeconstrucao/blob"
+baseurl                  :
+gh_repo                  : "/soprojetos/materialeconstrucao"
 teaser                   : "http://placehold.it/500x300"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
