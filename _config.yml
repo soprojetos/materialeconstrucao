@@ -17,7 +17,7 @@ gh_repo                  : "https://github.com/soprojetos/materialeconstrucao/bl
 teaser                   : "http://placehold.it/500x300"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-comments:
+comments:excl
   provider               : "facebook"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
@@ -139,6 +139,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
