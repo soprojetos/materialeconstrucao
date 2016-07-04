@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Como recuperar paredes e rodapés com infiltração"
 categories:
   - blog
