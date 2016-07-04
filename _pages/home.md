@@ -13,7 +13,7 @@ excerpt: "Material e Construção é um site voltado para pessoas que constroem 
 feature_row:
   - image_path: fudacao.png
     alt: "Orçamento de Alicerce"
-    title: "Orçamento de Alicerce"
+    title: "Orçamento de alicerce"
     excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o seu alicerce"
     url: "/docs/configuration/"
     btn_label: "Saiba mais"
