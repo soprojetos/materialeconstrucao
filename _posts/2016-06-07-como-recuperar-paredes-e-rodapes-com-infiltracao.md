@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Como recuperar paredes e rodapés com infiltração"
-date: 2016-06-07
 categories:
   - blog
 ---
