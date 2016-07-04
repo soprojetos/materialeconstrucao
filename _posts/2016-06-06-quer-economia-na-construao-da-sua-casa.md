@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Quer economia na construção da sua casa?"
 categories:
   - dica
