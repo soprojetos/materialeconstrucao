@@ -2,4 +2,4 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --allow-hash-href --url-ignore www.materialeconstrucao.com.br --href-ignore 'http://www.materialeconstrucao.com.br/categories/blog/'
+bundle exec htmlproofer ./_site --allow-hash-href --url-ignore 'http://www.materialeconstrucao.com.br/categories/blog/'
