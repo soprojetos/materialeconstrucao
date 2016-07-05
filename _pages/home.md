@@ -15,19 +15,19 @@ feature_row:
     alt: "Orçamento de Alicerce"
     title: "Orçamento de alicerce"
     excerpt: "Orçamento para auxiliar na hora de calcular quanto custará para fazer o seu alicerce"
-    url: "/docs/configuration/"
+    url: "/orcamentos/orcamento-de-alicerce.html"
     btn_label: "Saiba mais"
   - image_path: parede-tijolo.png
     alt: "Orçamento de parede de tijolo"
     title: "Orçamento de parede de tijolo"
     excerpt: "Quer saber quanto custa para fazer sua parede de tijolo? Veja GRÁTIS neste mini orçamento"
-    url: "/docs/layouts/"
+    url: "/orcamentos/orcamento-parede-de-tijolo.html"
     btn_label: "Saiba mais"
   - image_path: reboco.png
     alt: "Orçamento de reboco"
     title: "Orçamento de reboco"
     excerpt: "Calcule quanto custará para fazer o reboco da sua parede"
-    url: "/docs/license/"
+    url: "/orcamentos/orcamento-reboco.html"
     btn_label: "Saiba mais"
 ---
 
