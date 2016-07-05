@@ -17,15 +17,15 @@ gh_repo                  : "/soprojetos/materialeconstrucao"
 teaser                   : "http://placehold.it/500x300"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : "facebook"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                : 273458529340431
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+# comments:
+#   provider               : "facebook"
+#   disqus:
+#     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+#   facebook:
+#     # https://developers.facebook.com/docs/plugins/comments
+#     appid                : 273458529340431
+#     num_posts            : # 5 (default)
+#     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
 google_site_verification :
