@@ -1,21 +1,22 @@
 ---
-title: Quer economia na construção da sua casa?
+layout: single
+title: "Quer economia na construção da sua casa?"
 categories:
-  - dica
+  - blog
 ---
 
-Basta planejar e organizar adequadamente da escolha do terreno aos acabamentos.
+# Basta planejar e organizar adequadamente da escolha do terreno aos acabamentos.
 
-### Siga as dicas: ###
+##Siga as dicas:
 
-#### Compra do terreno ####
+### Passo 1 - Compra do terreno
 
 É recomendável escolher um terreno plano, o que representará menos gastos com terraplanagem e fundações;
 Para avaliar o solo, é importante contratar uma empresa de sondagem; caso o resultado apresente um solo de boa resistência superficial, será possível utilizar uma fundação tipo sapata corrida (uma laje armada horizontalmente, de 50 a 60cm, em valas de aproximadamente 1 metro de profundidade), que consome menos concreto;
 Em um lote acidentado é possível fazer terraplanagem, mas a necessidade de fazê-la ou não será definida pelo projeto arquitetônico, que pode tirar proveito da inclinação ou dos acidentes naturais do lugar;
 Para terrenos em declive, uma solução pode ser a utilização de uma estrutura independente.
 
-#### Projeto ####
+### Passo 2 -  Projeto
 
 É altamente recomendável você informar Soprojetos o quanto pretende gastar com a construção para fazermos o orçamento quantitativo.
 Fazer revisão do projeto. É muito mais fácil e barato solucionar erros e pedir mudanças na fase do projeto do que derrubar paredes durante a obra;

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Material e Construção"
+title                    : "Material21 e Construção"
 title_separator          : "-"
 name                     : "Soprojetos"
 description              : "Material e Construção é um site voltado para pessoas que constroem e precisam  de respostas simples, rápidas e GRÁTIS para pequenos orçamentos, como orçamento de alicerce, orçamento de muro etc.."
-url                      : "https://soprojetos.github.io"
-baseurl                  : "/materialeconstrucao"
-gh_repo                  : "https://github.com/soprojetos/materialeconstrucao/blob"
+url                      : "http://www.materialeconstrucao.com.br"
+baseurl                  :
+gh_repo                  : "/soprojetos/materialeconstrucao"
 teaser                   : "http://placehold.it/500x300"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -35,9 +35,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "soprojetos"
 facebook:
-  username               :
+  username               : &facebook "soprojetos"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -139,6 +139,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -202,11 +203,11 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
+categories:
+  type: jekyll-archives
   path: /categories/
-tag_archive:
-  type: liquid
+tags:
+  type: jekyll-archives
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
