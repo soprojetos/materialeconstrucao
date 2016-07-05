@@ -2,7 +2,8 @@
 title: "Material e Contrução: orçamentos e conteúdos"
 layout: splash
 regenerate: true
-date: 2016-03-23T11:48:41-04:00
+permalink: /
+date:
 header:
   overlay_color: "#5e616c"
   overlay_image: material-contrucao-cover.png
