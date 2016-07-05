@@ -19,8 +19,6 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "facebook"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                : 273458529340431
