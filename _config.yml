@@ -15,7 +15,7 @@ url                      : "http://www.materialeconstrucao.com.br"
 baseurl                  :
 gh_repo                  : "/soprojetos/materialeconstrucao"
 teaser                   : "http://placehold.it/500x300"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "facebook"
