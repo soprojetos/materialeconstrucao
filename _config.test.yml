@@ -1,0 +1,10 @@
+# Develop override settings
+
+url: ""
+
+analytics:
+  provider: false
+
+comments:
+  disqus:
+    shortname            : "mmistakes-dev"
