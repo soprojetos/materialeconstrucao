@@ -4,7 +4,7 @@ main:
     url: /blog/
 
   - title: "sobre"
-    url: https://mmistakes.github.io/minimal-mistakes/
+    url: /sobre/
 
   - title: "soprojetos"
     url: http://blog.soprojetos.com.br/
