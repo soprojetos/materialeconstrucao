@@ -25,8 +25,8 @@
 {% endif %}
 
 <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
-  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}"
->
+  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}">
+
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
       <h1 class="page__title" itemprop="headline">
@@ -52,4 +52,7 @@
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
   {% endif %}
+</div>
+<div id="chmd-spj">
+  <center><h1>Está pensando em construir e quer ver plantas de casas? Visite a <a href="https://www.soprojetos.com.br" target="_blank">Soprojetos</a></h1></canvas></center>
 </div>
