@@ -6,5 +6,5 @@ main:
   - title: "sobre"
     url: /sobre/
 
-  - title: "soprojetos"
-    url: http://www.soprojetos.com.br/
+  #- title: "soprojetos"
+  #  url: https://www.soprojetos.com.br/
