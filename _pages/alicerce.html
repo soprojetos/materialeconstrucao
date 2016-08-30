@@ -17,39 +17,119 @@ permalink: /orcamentos/alicerce.html
   </head>
   
   <body>
-    <div class="section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="jumbotron">
-              <h1></h1>
-              <h1 style="margin-top: 0px; margin-bottom: 0px; font-weight: bold; color: rgb(51, 51, 51); text-rendering: optimizeLegibility; font-size: 60px; line-height: 1; letter-spacing: -1px; font-family: Arial, Helvetica, sans-serif;">Quanto custa o alicerce?</h1>
-              <p>Este é um simples orçamento para auxiliar na hora de calcular quanto custará
-                para fazer o seu alicerce.</p>
-              <p>Informe os seguintes dados do alicerce</p>
-              <form class="form-horizontal"
-              role="form">
-                <div class="form-group hidden-md hidden-sm hidden-xs">
-                  <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Comprimento">
-                  </div>
-                </div>
-                <div class="form-group">
-                  <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputPassword3" placeholder="Largura">
-                  </div>
-                </div>
-                <div class="form-group">
-                  <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputPassword3" placeholder="Profundidade">
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="container">
+  <div class="jumbotron">
+        <h1>Quanto custa o alicerce?</h1>
+        <h3>Este é um simples orçamento para auxiliar na hora de calcular quanto custará para fazer o seu alicerce.</h3>
+        <br>
+        <p class="lead">Informe as dimensões do seu alicerce</p>
+        <div class="input-group col-sm-3">
+        <input type="text" class="form-control" placeholder="Comprimento" aria-describedby="basic-addon2">
+        <span class="input-group-addon" id="basic-addon2">metros</span>
     </div>
+    <br>
+    <div class="input-group col-sm-3">
+        <input type="text" class="form-control" placeholder="Largura" aria-describedby="basic-addon2">
+        <span class="input-group-addon" id="basic-addon2">metros</span>
+    </div>
+    <br>
+    <div class="input-group col-sm-3">
+        <input type="text" class="form-control" placeholder="Profundidade" aria-describedby="basic-addon2">
+        <span class="input-group-addon" id="basic-addon2">metros</span>
+    </div>
+    <br>
+
+    </div>
+    <ul class="nav nav-tabs">    
+    <li role="presentation" class="active"><a href="#">Totais</a></li>
+    <li role="presentation"><a href="#">Indices</a></li>        
+    <table class="table">   
+    <thead>   
+        <tr>      
+          <th>Materiais</th>
+          <th>Unidade</th>
+          <th>Quantidade</th>
+          <th>Preço Unitario</th>
+          <th>Valor Total</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>Cimento</td>
+      <td>saco</td>
+      <td><span class="qtcimento">0</span> sacos</td>
+      <td> <input type="text" class="form-control col-sm-1" aria-describedby="basic-addon1"></td>
+      <!-- <input class="entradareal span2" id="inputpunitcimento" alt="ml" type="text" value="" name="inputpunitcimento" /></td> -->
+      <td><span class="ptotalcimento">0</span></td>
+    </tr>
+
+    <tr>
+      <td>Pedra preta</td>
+      <td>m³</td>
+      <td><span class="qtpedra">0</span> m³</td>
+      <td> <input type="text" class="form-control col-sm-1" aria-describedby="basic-addon1"></td>
+      <!-- <td><input class="entradareal span2" id="inputpunitpedra" alt="ml" type="text" value="" name="inputpunitpedra" /></td> -->
+      <td><span class="ptotalpedra">0</span></td>
+    </tr>
+    
+    <tr>
+      <td>Areia sem liga</td>
+      <td>m³</td>
+      <td><span class="qtareia">0</span> m³</td>
+      <td> <input type="text" class="form-control col-sm-1" aria-describedby="basic-addon1"></td>
+      <!-- <td><input class="entradareal span2" id="inputpunitareia" alt="ml" type="text" value="" name="inputpunitareia" /></td> -->
+      <td><span class="ptotalareia">0</span></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Subtotal</td>
+      <td><span class="ptotalmateriais">0</span></td>
+    </tr>
+  </tbody>
+  </table>
+
+  <table class="table">   
+    <thead>   
+        <tr>      
+          <th>Mão de obra</th>
+          <th>Unidade</th>
+          <th>Quantidade</th>
+          <th>Preço Unitario</th>
+          <th>Valor Total</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>Servente</td>
+      <td>hora</td>
+      <td><span class="qtcimento">0</span> horas</td>
+      <td> <input type="text" class="form-control col-sm-1" aria-describedby="basic-addon1"></td>
+      <!-- <input class="entradareal span2" id="inputpunitcimento" alt="ml" type="text" value="" name="inputpunitcimento" /></td> -->
+      <td><span class="ptotalcimento">0</span></td>
+    </tr>
+    
+    <tr>
+      <td>Pedreiro</td>
+      <td>hora</td>
+      <td><span class="qtareia">0</span> horas</td>
+      <td> <input type="text" class="form-control col-sm-1" aria-describedby="basic-addon1"></td>
+      <!-- <td><input class="entradareal span2" id="inputpunitareia" alt="ml" type="text" value="" name="inputpunitareia" /></td> -->
+      <td><span class="ptotalareia">0</span></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Subtotal</td>
+      <td><span class="ptotalmateriais">0</span></td>
+    </tr>
+  </tbody>
+  </table>
+
+  </ul>
+</div>
   </body>
 
 </html>
