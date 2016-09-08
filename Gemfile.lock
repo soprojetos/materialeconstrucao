@@ -48,6 +48,8 @@ GEM
       octokit (~> 4.0)
       public_suffix (~> 1.4)
       typhoeus (~> 0.7)
+    haml (4.0.7)
+      tilt
     html-pipeline (2.4.1)
       activesupport (>= 2, < 5)
       nokogiri (>= 1.4)
@@ -126,6 +128,7 @@ GEM
       faraday (~> 0.8, < 0.10)
     terminal-table (1.5.2)
     thread_safe (0.3.5)
+    tilt (2.0.5)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
     tzinfo (1.2.2)
@@ -138,6 +141,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  haml
   html-proofer
   jekyll
   jekyll-archives
